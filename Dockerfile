@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y \
     libssl-dev \
     && rm -rf /var/lib/apt/lists/*
 
-RUN git clone https://github.com/Xquantum398/tfms.xyz .
+RUN git clone https://github.com/Xquantum398/trfms.xyz .
 
 RUN pip install flask curl-cffi m3u8 gunicorn
 
