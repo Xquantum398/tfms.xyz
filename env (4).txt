@@ -11,7 +11,7 @@ RBT_GIT_HTML_BASE_URL="https://github.com/Xquantum398/tfms.xyz/tree/main/downloa
 #proxy pigzilla
 PZPROXY="linkproxypigzilla"
 
-HEADER="&h_user-agent=VAVOO/2.6&h_referer= https://inattv1278.xyz/"
+HEADER="&h_user-agent=Mozilla/5.0&h_referer= https://inattv1278.xyz/"
 
 NOMEGITHUB=nomegit
 NOMEREPO=nomerepo
