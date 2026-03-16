@@ -1,5 +1,5 @@
 # Main MFP Configuration SENZA / finale
-MFP="https://link.mfp"
+MFP="https://nellan-patitos.hf.space"
 PSW="mfp"
 
 # se questi sono compilati i link mpd utilizzeranno questi due valori mentre tutti gli altri MFP e PSW (fatto per usare render sugli script hat thisnot e FILEmpd)
