@@ -7,11 +7,11 @@ MFP2=""
 PSW2=""
 
 #Pigzilla
-RBT_GIT_HTML_BASE_URL="https://github.com/ciccioxm3/OMGTV/tree/main/download/"
+RBT_GIT_HTML_BASE_URL="https://github.com/Xquantum398/tfms.xyz/tree/main/download/"
 #proxy pigzilla
 PZPROXY="linkproxypigzilla"
 
-HEADER="&h_user-agent=VAVOO/2.6&h_referer= https://vavoo.to/"
+HEADER="&h_user-agent=VAVOO/2.6&h_referer= https://inattv1278.xyz/"
 
 NOMEGITHUB=nomegit
 NOMEREPO=nomerepo
